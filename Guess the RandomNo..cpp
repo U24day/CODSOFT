@@ -1,8 +1,9 @@
 #include<iostream>
+using namespace std;
+
 #include<cstdlib>
 #include<ctime>
 
-using namespace std;
 int main (){
     srand(time(0));
     int randomNo = rand() % 100 + 1;
@@ -18,7 +19,7 @@ int main (){
 
         }
         else{
-            cout << "CONGRATULATIONS !" << endl;
+            cout << "CONGRATULATIONS !!!!" << endl;
 
         }
     }
