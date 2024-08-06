@@ -37,7 +37,7 @@ while (choice ){
     cout<<"4. DIVISION "<<endl;
 
 
-    cout<<"ENTER the  1/2/3/4 :";
+    cout<<"ENTER the  1,2,3,4 :";
     cin >> choice ;
     break;
 
