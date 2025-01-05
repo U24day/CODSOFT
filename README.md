@@ -1,4 +1,4 @@
-# CODSOFT
+
 Hello world , This is my profile.
 
 I am Uday Kumar Das.
